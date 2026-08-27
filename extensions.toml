@@ -5829,6 +5829,10 @@ version = "0.4.2"
 submodule = "extensions/ziggy"
 version = "0.0.1"
 
+[zinguazed]
+submodule = "extensions/zinguazed"
+version = "0.1.0"
+
 [zizmor]
 submodule = "extensions/zizmor"
 version = "0.0.1"

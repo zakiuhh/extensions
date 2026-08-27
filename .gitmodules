@@ -5726,6 +5726,10 @@
 	path = extensions/ziggy
 	url = https://github.com/lvignoli/zed-ziggy
 
+[submodule "extensions/zinguazed"]
+	path = extensions/zinguazed
+	url = https://github.com/zakiuhh/zinguazed.git
+
 [submodule "extensions/zizmor"]
 	path = extensions/zizmor
 	url = https://github.com/zizmorcore/zizmor-zed.git
